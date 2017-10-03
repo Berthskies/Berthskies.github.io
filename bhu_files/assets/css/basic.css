@@ -24,3 +24,11 @@
 .menu:hover{
   text-decoration: underline;
 }
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    width: 600px;
+    height: 600px;
+    background-color: transparent;
+}
